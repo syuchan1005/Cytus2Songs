@@ -1,0 +1,620 @@
+{
+    "songs": {
+        "paff001_000": {
+            "name": "Body Talk",
+            "artist": "M2U",
+            "difficulty": [
+                1,
+                8,
+                12
+            ],
+            "track": 1,
+            "character": 0
+        },
+        "paff001_001_2": {
+            "name": "Survive",
+            "artist": "Kevin Penkin feat.Nikki Simmons",
+            "difficulty": [
+                1,
+                5,
+                10
+            ],
+            "track": 2,
+            "character": 0
+        },
+        "paff001_002": {
+            "name": "Bullet Waiting for Me(James Landino remix)",
+            "artist": "Nikki Simmons",
+            "difficulty": [
+                1,
+                4,
+                11
+            ],
+            "track": 3,
+            "character": 0
+        },
+        "paff001_003": {
+            "name": "KANATA",
+            "artist": "mikito",
+            "difficulty": [
+                2,
+                6,
+                9
+            ],
+            "track": 4,
+            "character": 0
+        },
+        "paff001_004_2": {
+            "name": "Fight Another day(Andy Tunstall remix)",
+            "artist": "Kat Penkin",
+            "difficulty": [
+                3,
+                7,
+                10
+            ],
+            "track": 5,
+            "character": 0
+        },
+        "paff001_005": {
+            "name": "Baptism of Fire(CliqTrack remix)",
+            "artist": "Louise Penman",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 6,
+            "character": 0
+        },
+        "paff001_006": {
+            "name": "Fireflies(Funk Fiction remix)",
+            "artist": "Nikki Simmons",
+            "difficulty": [
+                3,
+                6,
+                10
+            ],
+            "track": 7,
+            "character": 0
+        },
+        "paff001_007": {
+            "name": "Gravity",
+            "artist": "M2U",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 8,
+            "character": 0
+        },
+        "paff001_008_2": {
+            "name": "Re:Boost",
+            "artist": "EAjRock",
+            "difficulty": [
+                2,
+                5,
+                11
+            ],
+            "track": 9,
+            "character": 0
+        },
+        "paff001_009_2": {
+            "name": "Green Hope",
+            "artist": "Re:Brych voc. Sing Sing Rabbit",
+            "difficulty": [
+                3,
+                7,
+                11
+            ],
+            "track": 10,
+            "character": 0
+        },
+        "paff001_010_2": {
+            "name": "Under the same sky",
+            "artist": "hinode",
+            "difficulty": [
+                1,
+                7,
+                9
+            ],
+            "track": 11,
+            "character": 0
+        },
+        "neko001_001_2": {
+            "name": "The Spark",
+            "artist": "Scott Brown & M-Project feat.Krystal",
+            "difficulty": [
+                3,
+                8,
+                12
+            ],
+            "track": 1,
+            "character": 1
+        },
+        "neko001_002_2": {
+            "name": "Resurrection",
+            "artist": "Kiryu",
+            "difficulty": [
+                4,
+                8,
+                12
+            ],
+            "track": 2,
+            "character": 1
+        },
+        "neko001_003_2": {
+            "name": "Keep it up",
+            "artist": "uma",
+            "difficulty": [
+                5,
+                8,
+                14
+            ],
+            "track": 3,
+            "character": 1
+        },
+        "neko001_004": {
+            "name": "Happiness Breeze",
+            "artist": "3R2 as DJ Mashiro",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 4,
+            "character": 1
+        },
+        "neko001_005": {
+            "name": "Alterna Pt.1 -Cosmogony-",
+            "artist": "Ayatsugu_Neverend ft.Kimi",
+            "difficulty": [
+                2,
+                5,
+                12
+            ],
+            "track": 5,
+            "character": 1
+        },
+        "neko001_006_2": {
+            "name": "Zealous Hearts(Rayark Edit)",
+            "artist": "Zekk",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 6,
+            "character": 1
+        },
+        "neko001_007_2": {
+            "name": "One Way Love",
+            "artist": "Tsukasa",
+            "difficulty": [
+                2,
+                6,
+                9
+            ],
+            "track": 7,
+            "character": 1
+        },
+        "neko001_008_2": {
+            "name": "CODENAME:GAMMA",
+            "artist": "NeLiME",
+            "difficulty": [
+                5,
+                9,
+                15
+            ],
+            "track": 8,
+            "character": 1
+        },
+        "neko001_009_2": {
+            "name": "Blow my mind",
+            "artist": "3R2",
+            "difficulty": [
+                3,
+                9,
+                14
+            ],
+            "track": 9,
+            "character": 1
+        },
+        "neko001_010_2": {
+            "name": "Chrome VOX",
+            "artist": "t+pazolite",
+            "difficulty": [
+                4,
+                9,
+                15
+            ],
+            "track": 10,
+            "character": 1
+        },
+        "neko001_011_2": {
+            "name": "Hard Landing",
+            "artist": "Yamajet",
+            "difficulty": [
+                3,
+                8,
+                10
+            ],
+            "track": 11,
+            "character": 1
+        },
+        "robo001_001_2": {
+            "name": "Deadly Slot Game",
+            "artist": "提供",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 1,
+            "character": 2
+        },
+        "robo001_002_2": {
+            "name": "Make Me Burn",
+            "artist": "JAKAZiD",
+            "difficulty": [
+                3,
+                6,
+                12
+            ],
+            "track": 2,
+            "character": 2
+        },
+        "robo001_003": {
+            "name": "Restriction",
+            "artist": "Team Grimoire",
+            "difficulty": [
+                4,
+                7,
+                11
+            ],
+            "track": 3,
+            "character": 2
+        },
+        "robo001_004_2": {
+            "name": "Grimoire of Crimson",
+            "artist": "Team Grimoire",
+            "difficulty": [
+                4,
+                8,
+                11
+            ],
+            "track": 4,
+            "character": 2
+        },
+        "robo001_005_2": {
+            "name": "Claim the Game",
+            "artist": "SOTUI feat. Tha Watcher",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 5,
+            "character": 2
+        },
+        "robo001_006": {
+            "name": "Devilic Sphere",
+            "artist": "3R2",
+            "difficulty": [
+                3,
+                9,
+                13
+            ],
+            "track": 6,
+            "character": 2
+        },
+        "robo001_007_2": {
+            "name": "Pure Powerstomper",
+            "artist": "M-Project feat. Jonjo",
+            "difficulty": [
+                4,
+                8,
+                13
+            ],
+            "track": 7,
+            "character": 2
+        },
+        "robo001_008": {
+            "name": "Celestial Sounds(KIVΛ remix)",
+            "artist": "3R2",
+            "difficulty": [
+                3,
+                8,
+                14
+            ],
+            "track": 8,
+            "character": 2
+        },
+        "robo001_009": {
+            "name": "DASEIN",
+            "artist": "KIVΛ",
+            "difficulty": [
+                4,
+                7,
+                12
+            ],
+            "track": 9,
+            "character": 2
+        },
+        "robo001_010_2": {
+            "name": "Luolimasi",
+            "artist": "SIHanatsuka",
+            "difficulty": [
+                2,
+                7,
+                10
+            ],
+            "track": 10,
+            "character": 2
+        },
+        "robo001_011_2": {
+            "name": "CHAOS",
+            "artist": "Æsir",
+            "difficulty": [
+                5,
+                9,
+                14
+            ],
+            "track": 11,
+            "character": 2
+        },
+        "xenon001_001_2": {
+            "name": "INSPION",
+            "artist": "INSPION",
+            "difficulty": [
+                4,
+                9,
+                13
+            ],
+            "track": 1,
+            "character": 3
+        },
+        "xenon001_002_2": {
+            "name": "Whisper in my Head",
+            "artist": "AssHoleBand",
+            "difficulty": [
+                2,
+                7,
+                13
+            ],
+            "track": 2,
+            "character": 3
+        },
+        "xenon001_003": {
+            "name": "Return",
+            "artist": "L DERCoLoR",
+            "difficulty": [
+                3,
+                6,
+                11
+            ],
+            "track": 3,
+            "character": 3
+        },
+        "xenon001_004": {
+            "name": "concentric circles",
+            "artist": "Yichen",
+            "difficulty": [
+                4,
+                7,
+                12
+            ],
+            "track": 4,
+            "character": 3
+        },
+        "xenon001_005_2": {
+            "name": "Fighting",
+            "artist": "Claymore",
+            "difficulty": [
+                2,
+                7,
+                11
+            ],
+            "track": 5,
+            "character": 3
+        },
+        "xenon001_006": {
+            "name": "To the Light",
+            "artist": "FUTURE AFTER A SECOND",
+            "difficulty": [
+                4,
+                8,
+                10
+            ],
+            "track": 6,
+            "character": 3
+        },
+        "xenon001_007": {
+            "name": "Phantom Razor",
+            "artist": "Daisuke Kurosawa",
+            "difficulty": [
+                4,
+                8,
+                10
+            ],
+            "track": 7,
+            "character": 3
+        },
+        "xenon001_008": {
+            "name": "Black Hole",
+            "artist": "A-Tse & KIVΛ",
+            "difficulty": [
+                2,
+                4,
+                10
+            ],
+            "track": 8,
+            "character": 3
+        },
+        "xenon001_009_2": {
+            "name": "SAMURAI",
+            "artist": "kobayashi Project",
+            "difficulty": [
+                4,
+                9,
+                13
+            ],
+            "track": 9,
+            "character": 3
+        },
+        "xenon001_010_2": {
+            "name": "IOLITE-SUNSTONE",
+            "artist": "Hideyuki Ono×Daisuke Kurosawa",
+            "difficulty": [
+                3,
+                7,
+                11
+            ],
+            "track": 10,
+            "character": 3
+        },
+        "conner001_001": {
+            "name": "Xiorc",
+            "artist": "Team Grimoire+あま猫",
+            "difficulty": [
+                4,
+                9,
+                14
+            ],
+            "track": 1,
+            "character": 4
+        },
+        "conner001_002": {
+            "name": "REBELLIUM",
+            "artist": "Section9",
+            "difficulty": [
+                3,
+                9,
+                14
+            ],
+            "track": 2,
+            "character": 4
+        },
+        "conner001_003_2": {
+            "name": "Imprinting",
+            "artist": "Sakuzyo",
+            "difficulty": [
+                4,
+                8,
+                13
+            ],
+            "track": 3,
+            "character": 4
+        },
+        "conner001_004": {
+            "name": "Gekkouka",
+            "artist": "Masanori Akita",
+            "difficulty": [
+                4,
+                8,
+                12
+            ],
+            "track": 4,
+            "character": 4
+        },
+        "conner001_005_2": {
+            "name": "Light of Buenos Aires",
+            "artist": "Masanori Akita",
+            "difficulty": [
+                3,
+                7,
+                12
+            ],
+            "track": 5,
+            "character": 4
+        },
+        "conner001_006": {
+            "name": "tondari-hanetari",
+            "artist": "Yuichi Tsuchiya",
+            "difficulty": [
+                3,
+                8,
+                13
+            ],
+            "track": 6,
+            "character": 4
+        },
+        "conner001_007_2": {
+            "name": "Abduction",
+            "artist": "VILA",
+            "difficulty": [
+                4,
+                8,
+                11
+            ],
+            "track": 7,
+            "character": 4
+        },
+        "conner001_008": {
+            "name": "Nostalgia Sonatina",
+            "artist": "Ice",
+            "difficulty": [
+                4,
+                8,
+                13
+            ],
+            "track": 8,
+            "character": 4
+        },
+        "conner001_009_2": {
+            "name": "I luv U",
+            "artist": "SQUAR",
+            "difficulty": [
+                3,
+                7,
+                11
+            ],
+            "track": 9,
+            "character": 4
+        },
+        "conner001_010": {
+            "name": "Instinct",
+            "artist": "Sakuzyo",
+            "difficulty": [
+                4,
+                8,
+                12
+            ],
+            "track": 10,
+            "character": 4
+        },
+        "conner001_011": {
+            "name": "Floor of Lava",
+            "artist": "Ice",
+            "difficulty": [
+                6,
+                9,
+                15
+            ],
+            "track": 11,
+            "character": 4
+        }
+    },
+    "characters": [
+        {
+            "name": "PUFF",
+            "track": 11
+        },
+        {
+            "name": "NEKO#ΦωΦ",
+            "track": 11
+        },
+        {
+            "name": "ROBO_Head",
+            "track": 11
+        },
+        {
+            "name": "Xenon",
+            "track": 10
+        },
+        {
+            "name": "ConneR",
+            "track": 11
+        }
+    ]
+}
